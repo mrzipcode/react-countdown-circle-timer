@@ -1,4 +1,4 @@
-# React/React Native Countdown Circle Timer
+# React/React Native Countdown Circle Timer (zip copy)
 
 React/React Native countdown timer component in a circle shape with color and progress animation.
 
